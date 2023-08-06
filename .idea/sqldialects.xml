@@ -2,5 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/script.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chudik0/task/classis/AddStudent.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chudik0/task/home/TaskDao.java" dialect="GenericSQL" />
   </component>
 </project>

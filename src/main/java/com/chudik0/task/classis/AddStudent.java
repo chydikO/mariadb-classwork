@@ -1,4 +1,4 @@
-package com.chudik0;
+package com.chudik0.task.classis;
 
 import java.sql.*;
 import java.util.Scanner;
